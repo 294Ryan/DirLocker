@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['DirLocker.py'],
+    ['DirLocker_v2.py'],
     pathex=[],
     binaries=[],
     datas=[],
