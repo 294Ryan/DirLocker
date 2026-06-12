@@ -30,14 +30,18 @@
 2. **解密目錄（Unlock）：**
     輸入目標目錄路徑後，選擇 `[1] Unlock`，程式將掃描目錄內所有 `.lock` 檔案並還原為原始內容與檔名。
 - **範例**  
-*加密前:*  
-    📁 target_dir/  
-    ├── 📄 photo.jpg  
-    └── 📄 document.txt  
-*加密後:*  
-    📁 target_dir/  
-    ├── 🔒 photo.jpg.lock  
+  *加密前:*
+  ```
+    📁 target_dir/
+    ├── 📄 photo.jpg
+    └── 📄 document.txt
+  ```
+  *加密後:*  
+  ```
+    📁 target_dir/
+    ├── 🔒 photo.jpg.lock
     └── 🔒 document.txt.lock
+  ```
 
 
 ## **💻開發須知**
@@ -107,14 +111,18 @@ Download and extract the repository content.
 2. **Unlock (Decrypt):**
     Enter the target directory path and select `[1] Unlock`. The program will scan for all `.lock` files and restore them to their original content and filename.
 - **Example**  
-*Before Lock:*  
-    📁 target_dir/  
-    ├── 📄 photo.jpg  
-    └── 📄 document.txt  
-*After Lock:*  
-    📁 target_dir/  
-    ├── 🔒 photo.jpg.lock  
+  *Before Lock:*
+  ```
+    📁 target_dir/
+    ├── 📄 photo.jpg
+    └── 📄 document.txt
+  ```
+  *After Lock:*
+  ```
+    📁 target_dir/
+    ├── 🔒 photo.jpg.lock
     └── 🔒 document.txt.lock
+  ```
 
 
 ## **💻Development**
