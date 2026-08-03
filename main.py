@@ -97,10 +97,10 @@ def instroduce():
     print(Fore.LIGHTRED_EX + "<< Dir Locker >>")
     print(Style.BRIGHT + Fore.BLACK + \
 """
---Name: Dir Locker
---Function: Lock or Unlock a specified directory.
---Version: v1.0.0
---Designer: Coder
+--Name     : Dir Locker
+--Function : Lock or Unlock a specified directory.
+--Version  : v1.0.0
+--Developer: 294Ryan
 """)
     print(Fore.RED + "<!> Please ensure that the following operations are performed with the consent of the computer owner.")
     print(Fore.RED + "<!> We are not responsible for any errors that may occur.\n")
