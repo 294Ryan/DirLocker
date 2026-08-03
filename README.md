@@ -28,7 +28,7 @@ DirLocker 是一款輕量級 CLI 工具，可對指定目錄下的所有檔案�
 
 前往 [Releases](https://github.com/294Ryan/DirLocker/releases) 下載最新版本並解壓縮。
 
-- **啟動**：執行 `DirLocker_v1.0.0.exe`
+- **啟動**：執行 `DirLocker_v1.0.1.exe`
 - **功能介紹**：
 1. **加密目錄（Lock）**：
    輸入目標目錄路徑後，選擇 `[0] Lock`，工具會遞迴掃描並加密目錄內所有檔案，加密後的檔案將附加 `.lock` 副檔名。
@@ -106,7 +106,7 @@ DirLocker is a lightweight CLI tool that performs **bitwise NOT encryption/decry
 
 Download the latest release from [Releases](https://github.com/294Ryan/DirLocker/releases) and extract it.
 
-- **Launch**: Run `DirLocker_v1.0.0.exe`
+- **Launch**: Run `DirLocker_v1.0.1.exe`
 - **Features**:
 1. **Lock Directory**:
    Enter the target directory path, then select `[0] Lock`. The tool will recursively scan and encrypt all files, appending `.lock` to each encrypted file.
