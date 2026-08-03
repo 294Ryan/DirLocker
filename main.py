@@ -99,8 +99,13 @@ def instroduce():
 """
 --Name     : Dir Locker
 --Function : Lock or Unlock a specified directory.
---Version  : v1.0.0
+--Version  : v1.0.1
 --Developer: 294Ryan
+ ____  _      _               _             
+|  _ \(_)_ __| |    ___   ___| | _____ _ __ 
+| | | | | '__| |   / _ \ / __| |/ / _ \ '__|
+| |_| | | |  | |__| (_) | (__|   <  __/ |   
+|____/|_|_|  |_____\___/ \___|_|\_\___|_|   
 """)
     print(Fore.RED + "<!> Please ensure that the following operations are performed with the consent of the computer owner.")
     print(Fore.RED + "<!> We are not responsible for any errors that may occur.\n")
