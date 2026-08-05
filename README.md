@@ -74,7 +74,7 @@ DirLocker/
 ## **備註**
 - 維護者：294Ryan - [GitHub](https://github.com/294Ryan)
 - 使用條款：MIT License
-- [!] 本專案供教育研究使用，請確保在電腦所有人同意的情況下進行操作。任何因不當使用造成的資料損失或後果請自負。
+- <!> 敬請在本專案所用條款之允許範圍內進行使用。且任何因操作疏失或不當使用造成的後果請自負。
 
 ---
 
@@ -152,4 +152,5 @@ DirLocker/
 ## **Notes**
 - Maintainer: 294Ryan - [GitHub](https://github.com/294Ryan)
 - License: MIT License
-- [!] This project is intended for educational and research purposes. Ensure you have the computer owner's consent before use. Any data loss or consequences resulting from misuse are solely your responsibility.
+- <!> Please use this product only within the scope permitted by the terms and conditions of this project. You are solely responsible for any consequences arising from operational errors or improper use.
+
